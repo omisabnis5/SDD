@@ -1,0 +1,18 @@
+{
+  "name": "specs",
+  "description": "Spec-driven development, end to end: draft requirements and non-functional needs from a prompt or mocks, produce a technical plan, split it into logically independent pull requests, review the plan for gaps, then autonomously execute one PR at a time (branch -> implement -> Playwright/test-suite verify -> code review -> regression check -> commit -> push -> merge).",
+  "version": "0.1.0",
+  "author": {
+    "name": "specs plugin"
+  },
+  "keywords": [
+    "spec-driven-development",
+    "sdd",
+    "planning",
+    "playwright",
+    "code-review",
+    "pull-request",
+    "automation"
+  ],
+  "license": "MIT"
+}
