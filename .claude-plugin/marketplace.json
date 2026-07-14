@@ -1,9 +1,11 @@
 {
   "name": "specs-marketplace",
-  "metadata": {
-    "description": "Marketplace hosting the specs spec-driven-development plugin.",
-    "version": "0.1.0"
+  "owner": {
+    "name": "Omkar Sabnis",
+    "email": "omisabnis@gmail.com"
   },
+  "description": "Marketplace hosting the specs spec-driven-development plugin.",
+  "version": "0.1.0",
   "plugins": [
     {
       "name": "specs",
